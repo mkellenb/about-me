@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+</head>
+<body>
+  Here are some facts about me yall!
+  1) Where did you grow up?
+  <button type="button" onclick=alert (Alabama)></button>>Press to see the answer</button> Alabama</button> 
+  2) How old are you?
+  <button type="button" onclick=alert(I am 27 years old)>Press to see the answer</button>
+  3) What do you do for work?
+  <button type="button" onclick=alert(I am a therapist)></button>Press to see the answer
+  4) What are your hobbies?
+  <button type="button" onclick=(alert I enjoy podcasts and audiobooks)></button>Press to see the answer
+  
+  5) What do you want to do?
+   <button type="button" onclick=(alert I want to be a software engineer)></button>Press to see the answer
+</body>
+</html>
